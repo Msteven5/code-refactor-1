@@ -7,8 +7,8 @@
 body {
     background-color: #d9dcd6;
 }
-
-header {
+/* changed all the divs to sections to update syntax and keep it semantic */
+header { 
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -19,7 +19,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* fixed the spacing with this code to allow for the ".seo" to be targetted correctly */
 header h1.seo {
     color: #d9dcd6;
 }
