@@ -4,9 +4,9 @@ This application was created to organize the company Horiseon's company page. It
 
 
 
-Here's a look at the layout of the website:
+[Here's a look at the layout of the website] 
 
-assets\images\Horiseon Layout Screenshot.png
+(assets\images\Horiseon-Layout-Screenshot.png)
 
 
 As well as the actual website itself:
