@@ -4,9 +4,10 @@ This application was created to organize the company Horiseon's company page. It
 
 
 
+
 [Here's a look at the layout of the website] 
 
-(assets\images\Horiseon-Layout.png)
+![Horiseon-Layout](https://github.com/Msteven5/code-refactor-1/assets/153029688/d8c787d8-b773-4d7e-869d-7fa201545235)
 
 
 As well as the actual website itself:
